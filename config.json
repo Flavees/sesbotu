@@ -1,0 +1,13 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "discord.gg/flaves",
+        "GUILD_ID": "748823669484159078",
+        "VOICE_CHANNEL": "748827690840096803",
+        "MIN_STAFF_ROLE": "782828496660594728"
+    },
+    "FILES": {
+        "WELCOME": "https://cdn.glitch.com/9072bcc9-c986-4ab3-ac6e-55ba657d235d%2Fho%C5%9Fgeldin.mp3?v=1610198999461",
+        "STAFF": "https://cdn.glitch.com/9072bcc9-c986-4ab3-ac6e-55ba657d235d%2Fyetkili%20geldi.mp3?v=1610198997753"
+    }
+}
